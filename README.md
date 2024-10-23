@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Scamos!
 - 👀 I’m interested in Coding, especially if it's backend.
-- 🌱 I’ve learned about Java, HTML, CSS, JS, C++, MySQL, Spring Boot & Other tools and I'm still learning new things.
+- 🌱 I’ve learned about Java, HTML, CSS, JS, C++, MySQL, Spring Boot, Firebase Database & Other tools and I'm still learning new things.
 - 💞️ I’m looking to collaborate on Learning more by making projects.
 - 📫 How to reach me:
   Instagram: @lo_scamo
